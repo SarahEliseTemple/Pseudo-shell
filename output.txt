@@ -1,0 +1,11 @@
+/home/me/Desktop/Project_1
+>>> >>> >>> >>> .. . 
+>>> /home/me/Desktop/Project_1/test
+>>> >>> >>> /home/me/Desktop/Project_1/test
+>>> >>> .. . 
+>>> >>> >>> /home/me/Desktop/Project_1/test
+>>> .. del.txt . 
+>>> >>> .. . 
+>>> >>> /home/me/Desktop/Project_1
+>>> example-output.txt string_parser.c main.h main.o .. input.txt Makefile command.c test main.c pseudo-shell-arm-based pseudo-shell test_script.sh string_parser.h . string_parser.o output.txt command.h command.o 
+>>> 
